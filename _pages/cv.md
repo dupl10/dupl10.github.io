@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Lanzhou, Lanzhou University, 2010
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry, Lanzhou University, 2014
+* M.S. in Physical Chemistry, University of Science and Technology of China, 2016
+* Ph.D in Chemical Physics, University of Science and Technology of China, 2020 (expected)
 
 Work experience
 ======
