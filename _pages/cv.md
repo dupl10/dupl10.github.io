@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Chemistry, Lanzhou University, 2014
-* M.S. in Physical Chemistry, University of Science and Technology of China, 2016
-* Ph.D in Chemical Physics, University of Science and Technology of China, 2020 (expected)
+* Ph.D in Physical Chemistry, University of Science and Technology of China, 2021
 
 Work experience
 ======
